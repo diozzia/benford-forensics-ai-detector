@@ -1,6 +1,6 @@
 {
-  "name": "KDP Book Studio - Il Mio Grande Libro da Colorare & Guida Pratica",
-  "description": "Studio editoriale e libro completo pronto per la pubblicazione su Amazon KDP a circa 7€: 102 pagine con linee spesse, guide pratiche accessibili per bambini da 1 a 4 anni, calcolatore royalty, copertina KDP e kit listing Amazon.",
+  "name": "BenfordForensics - Rilevamento Immagini Autentiche vs AI",
+  "description": "Laboratorio scientifico di analisi forense per immagini digitali: verifica l'autenticità di fotografie e rileva alterazioni AI, fotomontaggi e immagini sintetiche applicando la Legge di Benford a gradienti spaziali, crominanza Cb/Cr, residui ad alta frequenza e trasformata DCT.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "benford-forensics",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Digital Image Forensics & AI Synthetic Detection via Benford's Law",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -17,7 +18,6 @@
     "@vitejs/plugin-react": "^6.1.1",
     "dotenv": "^17.2.3",
     "express": "^4.21.2",
-    "jspdf": "^4.2.1",
     "jszip": "^3.10.2",
     "lucide-react": "^0.546.0",
     "motion": "^12.23.24",
