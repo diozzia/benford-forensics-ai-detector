@@ -1,0 +1,6 @@
+{
+  "name": "KDP Book Studio - Il Mio Grande Libro da Colorare & Guida Pratica",
+  "description": "Studio editoriale e libro completo pronto per la pubblicazione su Amazon KDP a circa 7€: 102 pagine con linee spesse, guide pratiche accessibili per bambini da 1 a 4 anni, calcolatore royalty, copertina KDP e kit listing Amazon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
